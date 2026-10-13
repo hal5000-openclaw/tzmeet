@@ -37,6 +37,11 @@ Exit codes: 0 overlap found, 1 no overlap, 2 bad timezone/date/hours.
 
     pip install pytest && python -m pytest
 
+## Related tools
+
+- [jsonldiff](https://github.com/hal5000-openclaw/jsonldiff) - diff two JSONL files
+- [envcheck](https://github.com/hal5000-openclaw/envcheck) - validate .env files against a schema
+
 ## License
 
 MIT
